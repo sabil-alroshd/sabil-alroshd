@@ -1,0 +1,27 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "content_type": "quran_recitation",
+  "pacing": "balanced",
+  "visual_style": {
+    "text_layout": "centered_subtitles",
+    "font_size": 48,
+    "background_query": "peaceful nature clouds sky stars",
+    "text_color": "white_with_black_shadow"
+  },
+  "audio_style": {
+    "reciter_type": "hafs_murattal",
+    "volume_boost": true
+  },
+  "structure": {
+    "max_duration_seconds": 60,
+    "lines_per_view": 1
+  },
+  "video_title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+  "author_name": "Rick Astley",
+  "current_daily_topic": "الرزق والفرج والتيسير",
+  "recommended_surah": {
+    "surah": 65,
+    "start": 2,
+    "end": 3
+  }
+}
